@@ -56,6 +56,8 @@ body {
     border-width: 10px;
     border-color: #81a28a;
     margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
 
 }
 .txtblock2{
@@ -70,16 +72,16 @@ body {
 }
 h1{
     text-align: center;
-    font-family: Eva;
+    font-family: Minecraft;
 }
 h2{
     text-align: left;
-    font-family: Eva;
+    font-family: Minecraft;
 }
 p{
     text-align: center;
-    font-family: Eva;
+    font-family: Minecraft;
 }
 li{
-    font-family: Eva;
+    font-family: Minecraft;
 }
