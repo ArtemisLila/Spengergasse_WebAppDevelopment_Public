@@ -1,7 +1,33 @@
-
+@font-face {
+    font-family: "Minecraft";
+    src: url(Media/Fonts/Minecraft.ttf);
+}
+@font-face {
+    font-family: "JetS";
+    src: url(Media/Fonts/Jet_Set.ttf);
+}
+@font-face {
+    font-family: "Hybrid";
+    src: url(Media/Fonts/hybrid_o.ttf);
+}
+@font-face {
+    font-family: "Eva";
+    src: url(Media/Fonts/evangelion.ttf);
+}
 body {
     font-family: Arial, sans-serif;
 	margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    font-family: Eva;
+}
+p{
+    text-align: center;
+    font-family: Eva;
+}
+li{
+    font-family: Eva;
 }
