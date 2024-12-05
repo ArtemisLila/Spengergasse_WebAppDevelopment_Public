@@ -19,9 +19,61 @@ body {
 	margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-image: url(Media/Images/aTrippyBackground.gif);
+    background-size: 20%;
+}
+.flexcontainer1{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 10px;
+    margin-bottom: 10x;
+    border-style: inset;
+    border-width: 10px;
+    border-color: #81a28a;
+    padding: 10px;
+    background-color: #beefcc;
+}
+.imgvp{
+    width: auto;
+    height: auto;
+}
+.imgstyle1{
+    border-style: inset;
+    border-width: 10px;
+    border-color: #81a28a;
+    width: fit-content;
+    height: fit-content;
+    padding: 5px;
+    background-color: #ff42ff;
+    margin-left: auto;
+    margin-right: auto;
+}
+.txtblock1{
+    border-style: inset;
+    border-width: 10px;
+    border-color: #81a28a;
+    margin-bottom: 50px;
+
+}
+.txtblock2{
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 10px;
+    border-color: #81a28a;
+    margin-bottom: 50px;
+    padding: 5px;
 }
 h1{
     text-align: center;
+    font-family: Eva;
+}
+h2{
+    text-align: left;
     font-family: Eva;
 }
 p{
