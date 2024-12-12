@@ -51,6 +51,13 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
+.imgstyle2{
+    margin: auto;
+    margin-top: 10px;
+}
+.blinkrgb{
+
+}
 .txtblock1{
     border-style: inset;
     border-width: 10px;
