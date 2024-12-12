@@ -32,18 +32,18 @@ body {
     margin-bottom: 10x;
     border-style: inset;
     border-width: 10px;
-    border-color: #81a28a;
+    border-color: #12eb4c;
     padding: 10px;
-    background-color: #beefcc;
+    background-color: #251537ae;
 }
-.imgvp{
+.imgvw{
     width: auto;
     height: auto;
 }
 .imgstyle1{
     border-style: inset;
     border-width: 10px;
-    border-color: #81a28a;
+    border-color: #12eb4c;
     width: fit-content;
     height: fit-content;
     padding: 5px;
@@ -54,11 +54,11 @@ body {
 .txtblock1{
     border-style: inset;
     border-width: 10px;
-    border-color: #81a28a;
+    border-color: #12eb4c;
     margin-bottom: 50px;
     margin-left: auto;
     margin-right: auto;
-
+    background-color: #251537;
 }
 .txtblock2{
     width: fit-content;
@@ -66,22 +66,34 @@ body {
     margin-right: auto;
     border-style: inset;
     border-width: 10px;
-    border-color: #81a28a;
+    border-color: #12eb4c;
     margin-bottom: 50px;
     padding: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    background-color: #251537;
+}
+.list{
+    margin-left: 20px;
+    margin-right: 20px;
 }
 h1{
     text-align: center;
-    font-family: Minecraft;
+    font-family: Eva;
+    color: #12eb4c;
 }
 h2{
     text-align: left;
-    font-family: Minecraft;
+    font-family: Eva;
+    color: #12eb4c;
 }
 p{
     text-align: center;
-    font-family: Minecraft;
+    font-family: Eva;
+    color: #12eb4c;
 }
 li{
-    font-family: Minecraft;
+    font-family: Eva;
+    color: #12eb4c;
 }
